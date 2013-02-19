@@ -1,0 +1,9 @@
+D:\School\Projects\4 ConsoleInputOutput\Beep2\bin\Debug\Beep2.exe.config
+D:\School\Projects\4 ConsoleInputOutput\Beep2\bin\Debug\Beep2.exe
+D:\School\Projects\4 ConsoleInputOutput\Beep2\bin\Debug\Beep2.pdb
+D:\School\Projects\4 ConsoleInputOutput\Beep2\obj\Debug\Beep2.csprojResolveAssemblyReference.cache
+D:\School\Projects\4 ConsoleInputOutput\Beep2\obj\Debug\Beep2.exe
+D:\School\Projects\4 ConsoleInputOutput\Beep2\obj\Debug\Beep2.pdb
+D:\School\Projects\TEST\Beep2\bin\Debug\Beep2.exe.config
+D:\School\Projects\TEST\Beep2\obj\Debug\Beep2.exe
+D:\School\Projects\TEST\Beep2\obj\Debug\Beep2.pdb
